@@ -14,3 +14,4 @@ Requirements
 **************************
 * COMPLETED ON 4.14.2026 *
 **************************
+Was able to get git and github running also :)
