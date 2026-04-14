@@ -1,0 +1,16 @@
+Project: Guess the Number Game
+
+Objective:
+- Create a game where the user has to guess a number between 1 and 100.
+- After each guess tell the user wether they were "too high" or "too low"
+- Keep going until they guess the number
+
+Requirements
+- Use built-in 'random' module
+- Make a function that takes in the guess and returns a hint
+- Create the main loop where it asks for number then they are given a hint, keep asking for numbers until they get the number
+- Track the number of attempts the user took
+
+**************************
+* COMPLETED ON 4.14.2026 *
+**************************
