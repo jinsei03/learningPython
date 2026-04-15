@@ -1,0 +1,22 @@
+Project: Improved Guess the Number Game
+
+Objective:
+- Have difficulty levels and replayability
+
+Requirements
+- User decides difficulty
+	- Easy: 1-50, 10 attempts
+	- Med: 1-100, 7 attempts
+	- Hard: 1-200, 5 attempts
+- Must use random module
+- Random number generated must be within difficulty 
+- function return too high, low, or correct
+- Game loop:
+	- ask for guess
+	- attempt goes down
+	- stop if:
+		- guessed correctly 
+		- no more attempts
+- Keep track of attempts
+- show results at the end
+- at the end ask if they want to play again
