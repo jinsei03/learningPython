@@ -7,9 +7,9 @@ while True:
         break
     except ValueError:
             print("Invalid input. Please try again.")
+print(numOfHabits)
 
-habits = [] * numOfHabits
-
+habits = [[] for _ in range(numOfHabits)]
 for i in range(numOfHabits):
     habits[i] = input(f"What is the {i + 1} habit: ")
 
