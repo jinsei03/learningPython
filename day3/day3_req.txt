@@ -1,0 +1,20 @@
+Project: To-do list
+
+Objective
+- User is able to track multiple habits
+- record whether they compelted each habit
+- summary at the end
+
+Requirements
+- Ask the user how many habits
+	- ONLY allow 3 to 5
+- Ask user to enter each habit name
+- Store each habit
+- Ask if they completed habit
+	- accept:
+		- yes / no
+		- y / n
+- Summary must include:
+	- total number of habits
+	- number of habits complted 
+	- number of habits incompleted
