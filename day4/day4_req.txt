@@ -1,0 +1,35 @@
+Project: Advanced/Improved To-Do List
+
+Objective: 
+- doesnt reset every time the porgram ends
+- feels like a real tool isntead of a one time script
+
+Requirements:
+1. Start Menu
+	- Add a task
+	- View tasks
+	- Mark task as completed
+	- Exit
+	* Must loop until user chooses to exit *
+2. Task storage
+	- Store tasks in a file
+	- Tasks should still exist after closing program
+3. Add Task
+	- User can input new task
+	- Task gets saved to file
+4. View Tasks
+	- Display all tasks
+	- Show which are completed v incompleted
+5. Mark Task Complete
+	- User selects a task (most likely by number but maybe with name)
+	- Update its status
+6. Input Validation
+	- Handle:
+		- Invalid Menu Choices
+		- Invalid Task Selection
+
+CONSTRAINTS:
+- NO external libraries
+- NO databases
+- JUST python + basic file handling
+
